@@ -56,8 +56,9 @@ Our project is supported by a diverse and talented group of experts from various
 |[Chenghu Zhou](http://english.igsnrr.cas.cn/sourcedb/yw_30508/scientists/En_sklreis/202012/t20201211_456387.html)|Academician of CAS, Professor|Geographic Information Systems, Spatio-temporal Data Mining|The Institute of Geographic Sciences and Natural Resources Research, Chinese Academy of Sciences|
 |[Lei Zhou](https://soo-old.sjtu.edu.cn/en/szjyry/3593.html)|Distinguished Professor|Ocean and atmosphere dynamics|Shanghai Jiao Tong University|
 |[Lixin Qu](https://soo-old.sjtu.edu.cn/en/szjyry/4416.html)|Tenure-track Associate Professor|Ocean submesoscale processes, Artificial intelligence in oceanography|Shanghai Jiao Tong University|
-|[Yuntao Zhou](https://soo-old.sjtu.edu.cn/en/szjyry/4030.html)|Associate Professor|Oceanic Oxygen, Climate Change，Statistics and Geostatistics|Shanghai Jiao Tong University|
-|Luyu Han|Master Student|Climate Change，Artificial intelligence in oceanography|Shanghai Jiao Tong University, University of California, San Diego|
+|[Yuntao Zhou](https://soo-old.sjtu.edu.cn/en/szjyry/4030.html)|Associate Professor|Oceanic Oxygen, Climate Change, Statistics and Geostatistics|Shanghai Jiao Tong University|
+|Luyu Han|Master Student|Climate Change, Artificial intelligence in oceanography|Shanghai Jiao Tong University, University of California, San Diego|
+|Jingjing Shen|Master Student|Climate Change, Artificial intelligence in oceanography|Shanghai Jiao Tong University|
 
 
 ## Contact
