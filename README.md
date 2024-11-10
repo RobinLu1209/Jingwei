@@ -33,6 +33,33 @@ This will run the code with the default parameters. If you want to customize the
 | `--hidden_dim`        | `int`    | 64       | Dimension of the hidden layer.                       |
 | `--time_length`       | `int`    | 11       | Length of the time series.                           |
 
+## Meet the Team
+
+Our project is supported by a diverse and talented group of experts from various fields. The team is divided into two main groups: the **Information Science Team** and the **Oceanography Team**. Below, you will find an overview of the members in each group, along with their academic backgrounds, research interests, and current roles.
+
+### Information Science Team
+
+| Name | Position| Research Focus | Affiliation |
+|------|---------|----------------|-------------|
+|[Xinbing Wang](https://www.cs.sjtu.edu.cn/~wang-xb/)|Distinguished Professor|Big Data, Knowledge Graph|Shanghai Jiao Tong University|
+|[Xiaoying Gan](https://xiaoyinggan.acemap.info/index.html)|Professor|Data Mining, Crowd Computing|Shanghai Jiao Tong University|
+|[Luoyi Fu](https://www.cs.sjtu.edu.cn/~fu-ly/index.html)|Associate Professor|Data-driven IoT, Graph Network|Shanghai Jiao Tong University|
+|[Meng Jin](https://yume-sjtu.github.io/)|Associate Professor|IoT, AI for Science|Shanghai Jiao Tong University|
+|[Bin Lu](https://robinlu1209.github.io/)|PhD Student|Graph Neural Network, GeoAI|Shanghai Jiao Tong University|
+|Ze Zhao|Master Student|Knowledge Graph|Shanghai Jiao Tong University|
+|Haonan Qi|Master Student|AI for Ocean|Shanghai Jiao Tong University|
+
+### Oceanography Team
+| Name | Position| Research Focus | Affiliation |
+|------|---------|----------------|-------------|
+|[Jing Zhang](https://www.researchgate.net/profile/Jing-Zhang-583)|Academician of CAS, Professor| Biogeochemistry and Chemical Oceanography|East China Normal University|
+|[Chenghu Zhou](http://english.igsnrr.cas.cn/sourcedb/yw_30508/scientists/En_sklreis/202012/t20201211_456387.html)|Academician of CAS, Professor|Geographic Information Systems, Spatio-temporal Data Mining|The Institute of Geographic Sciences and Natural Resources Research, Chinese Academy of Sciences|
+|[Lei Zhou](https://soo-old.sjtu.edu.cn/en/szjyry/3593.html)|Distinguished Professor|Ocean and atmosphere dynamics|Shanghai Jiao Tong University|
+|[Lixin Qu](https://soo-old.sjtu.edu.cn/en/szjyry/4416.html)|Tenure-track Associate Professor|Ocean submesoscale processes, Artificial intelligence in oceanography|Shanghai Jiao Tong University|
+|[Yuntao Zhou](https://soo-old.sjtu.edu.cn/en/szjyry/4030.html)|Associate Professor|Oceanic Oxygen, Climate Change，Statistics and Geostatistics|Shanghai Jiao Tong University|
+|Luyu Han|Master Student|Climate Change，Artificial intelligence in oceanography|Shanghai Jiao Tong University, University of California, San Diego|
+
+
 ## Contact
 
 Bin Lu (robinlu1209@sjtu.edu.cn)
