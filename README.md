@@ -1,8 +1,5 @@
 # Jingwei: Hybrid Graph Learning Reconstructs Global Ocean Oxygen Spatiotemporal Changes
 
-<div align="center">
-  <img src="https://github.com/RobinLu1209/Jingwei/blob/main/readme_file/jingwei_logo.jpg" alt="Logo" width="25%" />
-</div>
 
 ## Requirements
 - python 3.9
@@ -32,6 +29,29 @@ This will run the code with the default parameters. If you want to customize the
 | `--geo_dim`           | `int`    | 5        | Dimension of the DO geo factor.                      |
 | `--hidden_dim`        | `int`    | 64       | Dimension of the hidden layer.                       |
 | `--time_length`       | `int`    | 11       | Length of the time series.                           |
+
+## Multi-Source Observation Dataset
+
+In our work, we collect comprehensive dissolved oxygen observation data from five publicly available databases as follows.
+
+| Database | Time | Institution | Source | Access Date|
+|----------|------|-------------|--------|------------|
+|World Ocean Database (WOD18) |  1900-2023 | National Centers for Environmental Information| [https://www.ncei.noaa.gov/](https://www.ncei.noaa.gov/) | 2023-05|
+|CLIVAR and Carbon Hydrographic Database (CCHDO) | 1922-2023 | CLIVAR and Carbon Hydrographic Data Office | [https://cchdo.ucsd.edu/](https://cchdo.ucsd.edu/) | 2023-05 |
+|Argo | 2001-2023 | Argo Global Data Assembly Center | [https://argo.ucsd.edu/](https://argo.ucsd.edu/) | 2023-05 |
+|Global Ocean Data Analysis Project version2.2022 (GLODAPV2_2022)| 1972-2021| NOAA’s National Centers for Environmental Information (NCEI) | [https://glodap.info/](https://glodap.info/) |  2023-05 |
+|Geotraces IDP| 2007-2018| GEOTRACES International Data Assembly Centre (GDAC) |  [https://www.geotraces.org](https://www.geotraces.org) | 2023-10|
+
+## The Name of "Jingwei"
+
+[Jingwei](https://en.wikipedia.org/wiki/Jingwei) is a classic figure in Chinese mythology, featured in the ["Shan Hai Jing"](https://en.wikipedia.org/wiki/Jingwei). 
+The story tells of Jingwei, the daughter of Emperor Yan, who drowned in the East Sea. She was reborn as a bird and decided to fill the sea with pebbles and twigs, endeavoring to prevent similar tragedies. Today, Jingwei symbolizes perseverance and determination, embodying the spirit of never giving up despite difficult challenges.
+
+In our work, we thank all marine scientists, researchers, and technicians who tirelessly venture into the field to measure oceanic dissolved oxygen data. Although their collected data might seem as extremely sparse as the pebbles and twigs Jingwei used, their persistent efforts aim to reveal the patterns of global ocean deoxygenation. To honor the spirit of these ocean explorers, we have named the AI-driven algorithm for reconstructing ocean deoxygenation proposed in this paper "Jingwei" and designed its logo as follows. 
+
+<div align="center">
+  <img src="https://github.com/RobinLu1209/Jingwei/blob/main/readme_file/jingwei_logo.jpg" alt="Logo" width="25%" />
+</div>
 
 ## Meet the Team
 
