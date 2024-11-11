@@ -12,7 +12,7 @@
 - torch-sparse 0.6.18
 - numpy 1.24.1
 
-## How to Train Jingwei
+## How to Train and Test Jingwei
 
 To run the code, simply execute the following command:
 
