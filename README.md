@@ -1,5 +1,8 @@
 # Jingwei: Hybrid Graph Learning Reconstructs Global Ocean Oxygen Spatiotemporal Changes
 
+<div align="center">
+  <img src="https://github.com/RobinLu1209/Jingwei/blob/main/readme_file/fig-main-fig1_Page1.png" alt="Logo" width="100%" />
+</div>
 
 ## Requirements
 - python 3.9
