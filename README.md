@@ -33,6 +33,10 @@ This will run the code with the default parameters. If you want to customize the
 | `--hidden_dim`        | `int`    | 64       | Dimension of the hidden layer.                       |
 | `--time_length`       | `int`    | 11       | Length of the time series.                           |
 
+## Visualization of Reconstruction Result @YouTube
+
+[![Reconstruction_Visualization](https://img.youtube.com/vi/sd5ytC_VPlU/0.jpg)](https://www.youtube.com/watch?v=sd5ytC_VPlU)
+
 ## Multi-Source Observation Dataset
 
 In our work, we collect comprehensive dissolved oxygen observation data from five publicly available databases as follows.
