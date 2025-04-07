@@ -72,8 +72,8 @@ Our project is supported by a diverse and talented group of experts from various
 |[Xiaoying Gan](https://xiaoyinggan.acemap.info/index.html)|Professor|Data Mining, Crowd Computing|Shanghai Jiao Tong University|
 |[Luoyi Fu](https://www.cs.sjtu.edu.cn/~fu-ly/index.html)|Associate Professor|Data-driven IoT, Graph Network|Shanghai Jiao Tong University|
 |[Meng Jin](https://yume-sjtu.github.io/)|Associate Professor|IoT, AI for Science|Shanghai Jiao Tong University|
-|[Bin Lu](https://robinlu1209.github.io/)|PhD Student|Graph Neural Network, GeoAI|Shanghai Jiao Tong University|
-|Ze Zhao|Master Student|Knowledge Graph|Shanghai Jiao Tong University|
+|[Bin Lu](https://robinlu1209.github.io/)|Postdoc|Graph Neural Network, GeoAI|Shanghai Jiao Tong University|
+|Ze Zhao|PhD Student|Knowledge Graph|Shanghai Jiao Tong University|
 |Haonan Qi|Master Student|AI for Ocean|Shanghai Jiao Tong University|
 
 ### Oceanography Team
